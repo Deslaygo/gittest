@@ -1,1 +1,3 @@
 Esto solo es texto plano
+
+Se aplica un cambio de texto
